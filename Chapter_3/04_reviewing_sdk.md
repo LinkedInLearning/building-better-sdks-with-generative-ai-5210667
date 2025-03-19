@@ -14,6 +14,6 @@ Output:
 
 # Attempt 2
 
-Reusing the existing GitHubAPi base class, please build a second class for interacting with the Issues endpoint. And please ensure the code runs and complies with the PEP-8 coding standard. And add description blocks for each of the methods
+Reusing the existing GitHubAPi base class, please build a second class for interacting with the Issues endpoint. And please ensure the code runs and complies with the PEP-8 coding standard. And add description blocks for each of the methods using the endpoint's description field
 
 Output: stargazer-suggestions.md
