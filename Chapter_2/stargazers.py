@@ -65,16 +65,16 @@ class GitHubAPI:
 
 # Example usage:
 if __name__ == "__main__":
-    token = "your_github_token"
+    token = "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"
     github = GitHubAPI(token)
 
     # List stargazers for a repository
     stargazers = github.list_stargazers("octocat", "Hello-World")
-    print(stargazers)
+    print(len(stargazers))
 
     # List repositories being starred by a user
     starred_repos = github.list_starred_repositories("octocat")
-    print(starred_repos)
+    print(len(starred_repos))
 
     # Check if a repository is starred by the authenticated user
     is_starred = github.check_if_starred("octocat", "Hello-World")
