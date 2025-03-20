@@ -7,4 +7,4 @@ Create PHP classes for this OpenAPI specification for every endpoint and functio
 
 And here’s another version for Python:
 
-Create Python classes for this OpenAPI specification for every endpoint and function that follow the PEP-8 coding standards. Also include PHP docblocks to describe the functions using the endpoint and parameter descriptions from the OpenAPI spec
+Create Python classes for this OpenAPI specification for every endpoint and function that follow the PEP-8 coding standards. Also include PEP-8 docblocks to describe the functions using the endpoint and parameter descriptions from the OpenAPI spec
